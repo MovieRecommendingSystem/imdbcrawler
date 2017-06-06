@@ -1,4 +1,5 @@
 # imdbcrawler
+this is a set of py for crawling data from imdb.\
 1.run step1_getDoubanMovies step2_getScore and step3_getInfoOfOneMovie to get a imdbid list of movies from douban api.\
 2.run imdb1 to get movie data from omdb\
 3.run imdbuser to get a user id list via the id list we get from 1.\
